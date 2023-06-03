@@ -1,1 +1,5 @@
 from the the master
+from develop
+from develop develop
+ from feature/feature4
+ from feature/feature2	
